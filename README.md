@@ -1,3 +1,21 @@
+# Optron AI — The World’s First Consumer AI Autopilot™
+
+**Optron AI** is a consumer AI platform designed to coordinate models, tools, agents, memory, connectors, live knowledge, workflows, and human approval through one unified **Consumer AI Autopilot™** experience.
+
+- **Core architecture:** [Optron AI Harness™](docs/big-book/OPTRON_BIG_BOOK_MISSION_ROOM_AI_HARNESS_ADDENDUM_R3.md)
+- **Human–AI collaboration environment:** [Optron Mission Room™](docs/big-book/OPTRON_BIG_BOOK_MISSION_ROOM_AI_HARNESS_ADDENDUM_R3.md)
+- **Company:** Global Green Miles Inc.
+- **Founder and architect:** Bardia Ghaffarisaravi
+- **Official websites:** `optron.app` and `optronlabs.com`
+
+The **Optron AI Harness™** is a governed multi-model and multi-agent mission-orchestration architecture. The **Optron Mission Room™** is a persistent human–AI collaboration workspace for shared goals, files, evidence, decisions, tasks, approvals, automation, and continuing mission state.
+
+> **Autopilot is what the user experiences. Harness is how Optron coordinates the mission. Mission Room is where people and AI work together around it.**
+
+Search and discovery concepts: consumer AI platform, AI Autopilot, multi-model AI orchestration, AI agent orchestration, human–AI collaboration, persistent AI workspace, AI coworking, mission orchestration, governed AI workflow automation, context-aware AI system, multi-agent collaboration.
+
+---
+
 # Optron Identity — Project Big Book / Library v1
 
 Generated split: 20260610_195409
