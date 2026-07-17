@@ -16,7 +16,8 @@ Global Green Miles Inc. claims trademark rights, through use and publication, in
 - **The World’s First Consumer AI Autopilot™**
 - **Optron AI — The World’s First Consumer AI Autopilot™**
 - **Powered by the Optron AI Harness™**
-- **From AI Chaos to AI Autopilot for Everyone™**
+- **From Gen AI to AI Autopilot™**
+- **From Gen AI to AI Autopilot for Everyone™**
 
 These marks are used in connection with artificial intelligence software, AI orchestration, multi-model coordination, tools, memory, connectors, agents, assistants, workflow execution, mission routing, and consumer-facing AI products and services.
 
@@ -45,7 +46,8 @@ A router selects a path. An aggregator gathers options. The Optron AI Harness™
 - **Flagship claim:** The World’s First Consumer AI Autopilot™
 - **Architecture:** Optron AI Harness™
 - **Supporting line:** Powered by the Optron AI Harness™
-- **Brand slogan:** From AI Chaos to AI Autopilot for Everyone™
+- **Primary brand slogan:** From Gen AI to AI Autopilot™
+- **Extended brand slogan:** From Gen AI to AI Autopilot for Everyone™
 
 ## Ownership notice
 
