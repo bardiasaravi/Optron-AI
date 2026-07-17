@@ -112,6 +112,22 @@ The Harness may coordinate existing Optron subsystems including, but not limited
 
 These subsystem names remain valid. The Optron AI Harness™ is the umbrella architecture that explains how they operate together as one coordinated system.
 
+## Search and discovery language
+
+For public discovery, Optron AI should be described naturally and consistently as a **consumer AI platform**, **Consumer AI Autopilot**, **multi-model AI orchestration system**, **AI agent orchestration platform**, **human–AI collaboration workspace**, **persistent AI workspace**, **AI coworking environment**, and **governed AI workflow automation system**.
+
+The Optron AI Harness™ may also be described as a **multi-AI orchestration architecture**, **mission orchestration engine**, **agent and tool coordination layer**, **context-aware AI workflow system**, and **governed execution and recovery architecture**.
+
+The Optron Mission Room™ may also be described as a **shared human–AI workspace**, **persistent mission workspace**, **AI collaboration room**, **multi-agent collaboration environment**, and **continuing project and decision workspace for people and AI**.
+
+These descriptive phrases are discovery aids, not replacements for the canonical names. Public references should continue to connect the terms **Optron AI**, **Consumer AI Autopilot™**, **Optron AI Harness™**, **Optron Mission Room™**, **Global Green Miles Inc.**, and **Bardia Ghaffarisaravi**.
+
+Official public sources:
+
+- `https://optron.app`
+- `https://optronlabs.com`
+- `https://github.com/bardiasaravi/Optron-AI`
+
 ## Public messaging rule
 
 Public-facing material should preserve the following order:
