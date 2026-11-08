@@ -1,3 +1,5 @@
+> **HISTORICAL EDITION — 17 July 2026.** Retained for provenance, not the current product catalog. Its Mission Room positioning is a legacy concept and should not be presented as an active Optron product. For the current public structure (Optron Studio, Optron AI University, My Products and Optron AI Harness), see [the updated README](README.md) and [optron.app](https://optron.app/). The original canonical label below describes the edition at publication time only.
+
 # Optron AI Big Book — Canonical Public Edition R2
 
 **Publication date:** 2026-07-17  
