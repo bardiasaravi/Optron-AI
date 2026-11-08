@@ -1,3 +1,5 @@
+> **HISTORICAL DOCUMENT — July 2026 product architecture.** This addendum preserves an earlier Mission Room concept for reference. **Mission Room is not a current public Optron module.** The present product direction emphasizes Optron Studio, Optron AI University and My Products, with Optron AI Harness as the underlying architecture. See [current public overview](../../README.md) and [optron.app](https://optron.app/). The original publication status below is historical, not a statement of current product availability.
+
 # Optron AI Big Book — Mission Room and AI Harness Addendum R3
 
 **Publication date:** 2026-07-17  
