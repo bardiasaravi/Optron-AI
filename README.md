@@ -13,7 +13,7 @@
 
 **Company:** Global Green Miles Inc. ([official company site](https://globalgreenmiles.com/))  
 **Founder and architect:** Bardia Ghaffarisaravi  
-**Official Optron sites:** [optron.app](https://optron.app/) (public landing) · [optronlabs.com](https://optronlabs.com/) (private beta)
+**Official Optron sites:** [optron.app](https://optron.app/) (public landing) · [optronlabs.com](https://optronlabs.com/) (private beta) · [Optron Bridge](https://bridge.optronlabs.com/welcome) (public product introduction; permissioned device access)
 
 **Historical documentation notice:** July 2026 Big Book editions and the Mission Room addenda preserve earlier product concepts and architecture discussions. **Optron Mission Room is a legacy concept, not a current public module.** The current public product positioning is described above and on [optron.app](https://optron.app/). Historical records are retained without deletion or reinterpretation.
 
